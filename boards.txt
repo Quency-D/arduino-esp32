@@ -28489,7 +28489,7 @@ heltec_wireless_tracker_v2.upload.tool=esptool_py
 heltec_wireless_tracker_v2.upload.tool.default=esptool_py
 heltec_wireless_tracker_v2.upload.tool.network=esp_ota
 
-heltec_wireless_tracker_v2.upload.maximum_size=1310720
+heltec_wireless_tracker_v2.upload.maximum_size=3342336
 heltec_wireless_tracker_v2.upload.maximum_data_size=327680
 heltec_wireless_tracker_v2.upload.flags=
 heltec_wireless_tracker_v2.upload.extra_flags=
